@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "using nomad coders",
+    "githubUrl": "https://github.com/seungchulee/fokin-weather"
   }
 }
